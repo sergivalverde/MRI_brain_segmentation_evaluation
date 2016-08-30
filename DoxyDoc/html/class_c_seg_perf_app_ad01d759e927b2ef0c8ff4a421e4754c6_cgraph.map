@@ -1,0 +1,19 @@
+<map id="CSegPerfApp::processAnalyze" name="CSegPerfApp::processAnalyze">
+<area shape="rect" id="node2" href="$class_c_analyzer.html#ae3169466ff9f0a40d9b47a8ff90bfec9" title="Compute average surface distance. " alt="" coords="285,5,471,47"/>
+<area shape="rect" id="node3" href="$class_c_analyzer.html#a7f4206f2bcc5786224db51fd65e9bdeb" title="Compute Haussdorf distance. " alt="" coords="269,71,487,98"/>
+<area shape="rect" id="node4" href="$class_c_analyzer.html#a539e783599e974ee52815599a72ceff1" title="Compute different measures with ITK to evaluate segmentation. " alt="" coords="270,122,486,149"/>
+<area shape="rect" id="node5" href="$class_c_analyzer.html#ab3e9e1fe6d535480d7ba15caa31efbda" title="Compute mean distance. " alt="" coords="281,173,475,199"/>
+<area shape="rect" id="node6" href="$class_c_analyzer.html#ade4b79152e999fc9de068d1699c91d27" title="Compute useful variables to get detection scores. " alt="" coords="279,223,477,250"/>
+<area shape="rect" id="node7" href="$class_c_analyzer.html#a7f4a5f0f2dd08d1e803dde5e8aefea74" title="Getter of Dice coefficient. " alt="" coords="281,274,475,301"/>
+<area shape="rect" id="node8" href="$class_c_analyzer.html#a5a3df0374833d641c9b3a68f06fa8688" title="Getter of Jaccard coefficient. " alt="" coords="271,325,485,351"/>
+<area shape="rect" id="node9" href="$class_c_analyzer.html#a5fc79d2057e006f84de2dfcaab80857d" title="Getter of Negative predictive value. " alt="" coords="311,375,445,402"/>
+<area shape="rect" id="node10" href="$class_c_analyzer.html#aaa5fca84b9d4db6d87424337412978e6" title="Getter of Positive predictive value. " alt="" coords="311,426,445,453"/>
+<area shape="rect" id="node11" href="$class_c_analyzer.html#a810f1762794f64b60f02a41d49213699" title="Getter of Relative volume error. " alt="" coords="279,477,477,519"/>
+<area shape="rect" id="node12" href="$class_c_analyzer.html#aa4b62a366c2a0a5daa80245588f967f7" title="Getter of Sensibility. " alt="" coords="295,543,461,570"/>
+<area shape="rect" id="node13" href="$class_c_analyzer.html#aac66e460c8b1d32d2b94dbe79b716776" title="Getter of Specificity. " alt="" coords="294,594,462,621"/>
+<area shape="rect" id="node14" href="$class_c_analyzer.html#a923b2166d1dade53e3d45eb9e57e1e72" title="Select the cluster we want to use to compute evaluation results. " alt="" coords="295,645,461,671"/>
+<area shape="rect" id="node15" href="$class_c_analyzer.html#a00677e30bea283bedd709c6922e60dc1" title="CAnalyzer::setDetectionThreshold\lAlpha" alt="" coords="269,696,487,737"/>
+<area shape="rect" id="node16" href="$class_c_analyzer.html#a5e964bd0bc62494e412e0b22d96b9b1e" title="CAnalyzer::setDetectionThresholdBeta" alt="" coords="255,762,501,789"/>
+<area shape="rect" id="node17" href="$class_c_analyzer.html#ad6ec226d93c7efb35a5ec53e467caa5d" title="CAnalyzer::setDetectionThreshold\lGamma" alt="" coords="269,813,487,855"/>
+<area shape="rect" id="node18" href="$class_c_analyzer.html#aaa775153ecd419616915d37ef1839959" title="CAnalyzer::setMinLesionVolume\lDetection" alt="" coords="273,879,483,920"/>
+</map>

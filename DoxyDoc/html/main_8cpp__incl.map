@@ -1,0 +1,7 @@
+<map id="C:/dev/fli/tools/SegPerfAnalyzer/src/main.cpp" name="C:/dev/fli/tools/SegPerfAnalyzer/src/main.cpp">
+<area shape="rect" id="node2" href="$_seg_perf_app_8h.html" title="Description of CSegPerfApp class, the main class. It structures application and application progress..." alt="" coords="775,95,877,121"/>
+<area shape="rect" id="node3" href="$_results_8h.html" title="Description of CResults class. The class to format and saves results. " alt="" coords="678,169,811,196"/>
+<area shape="rect" id="node4" href="$_analyzer_8h.html" title="Description of CAnalyzer class. The class to compute various metrics to evaluate segmentation results..." alt="" coords="835,169,982,196"/>
+<area shape="rect" id="node10" href="$_segmentation_measures_image_filter_8h.html" title="SegmentationMeasuresImage\lFilter.h" alt="" coords="490,244,685,285"/>
+<area shape="rect" id="node14" href="$_segmentation_measures_image_filter_8hxx.html" title="SegmentationMeasuresImage\lFilter.hxx" alt="" coords="997,333,1191,375"/>
+</map>

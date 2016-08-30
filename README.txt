@@ -1,0 +1,2 @@
+- Read the documentations
+- Change rights and owner to execute on Unix systems (Linux, OSX)

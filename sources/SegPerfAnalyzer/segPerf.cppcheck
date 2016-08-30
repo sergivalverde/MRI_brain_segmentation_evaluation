@@ -1,0 +1,12 @@
+<? xml version="1.0" encoding="UTF-8" ?>
+                               <project version="1">
+                                                 <root name="."/>
+                                                             <paths>
+                                                             <dir name="C:/dev/fli/tools/SegPerfAnalyzer/src"/>
+                                                                        </paths>
+                                                                        <libraries>
+                                                                        <library>microsoft_sal</library>
+                                                                        <library>qt</library>
+                                                                        <library>windows</library>
+                                                                        </libraries>
+                                                                        </project>

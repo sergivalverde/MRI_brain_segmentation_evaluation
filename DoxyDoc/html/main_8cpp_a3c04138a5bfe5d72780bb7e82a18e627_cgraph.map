@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_c_seg_perf_app.html#a2854120f37e297b1e5e8f92c1651af1f" title="This method define an output way if none are defined by command line. " alt="" coords="107,5,289,47"/>
+<area shape="rect" id="node3" href="$class_c_seg_perf_app.html#acdb58403542a17aa9a2698f1150629db" title="This method check if command line arguments are coherent between us. " alt="" coords="104,71,292,112"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a316d32c3b5ad78320d96c35a7a83e977" title="This function detect and applies the &quot;about&quot; command line switch before TCLAP. " alt="" coords="133,137,263,163"/>
+<area shape="rect" id="node7" href="$class_c_seg_perf_app.html#a9f1690a10dbb9e32028ca15115917963" title="This method set the application behavior thanks to command line arguments parsing. " alt="" coords="135,187,261,214"/>
+<area shape="rect" id="node8" href="$class_c_seg_perf_app.html#aa1a2ff22f9ada7f7cd016ad510a029ff" title="This method execute images filter to obtain desired measures, marks and scores. " alt="" coords="132,238,264,265"/>
+<area shape="rect" id="node10" href="$class_c_seg_perf_app.html#a06b780ffa448896105c9b0fa05311d95" title="This method define the base file name for output way. " alt="" coords="107,289,289,315"/>
+<area shape="rect" id="node5" href="$class_c_seg_perf_app.html#a4b5da79b725faa648f8e507126f760b8" title="This method display information about SegPerfAnalyzer results. " alt="" coords="355,137,495,163"/>
+<area shape="rect" id="node6" href="$class_c_results.html#a15960d5629da66ba407fd12b34d7576f" title="Get the list of all Measures available. " alt="" coords="559,129,744,171"/>
+<area shape="rect" id="node9" href="$class_c_analyzer.html#ad779e2167ebbb541950deb3fb9fd1369" title="Set the number of threads to use for the computation of ITK. " alt="" coords="340,238,511,265"/>
+</map>

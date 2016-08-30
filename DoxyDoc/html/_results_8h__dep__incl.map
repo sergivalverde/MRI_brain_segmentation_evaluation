@@ -1,0 +1,6 @@
+<map id="C:/dev/fli/tools/SegPerfAnalyzer/src/Results/Results.h" name="C:/dev/fli/tools/SegPerfAnalyzer/src/Results/Results.h">
+<area shape="rect" id="node2" href="$_seg_perf_app_8h.html" title="Description of CSegPerfApp class, the main class. It structures application and application progress..." alt="" coords="91,95,270,136"/>
+<area shape="rect" id="node5" href="$_results_8cpp.html" title="Implementation of CResults class. The class to format and saves results. " alt="" coords="294,95,510,136"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Contains the main function. " alt="" coords="5,184,159,225"/>
+<area shape="rect" id="node4" href="$_seg_perf_app_8cpp.html" title="Implementation of CSegPerfApp class. The class to structure application and application progress..." alt="" coords="183,184,376,225"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="CSegPerfApp::storeMetricsAndMarks" name="CSegPerfApp::storeMetricsAndMarks">
+<area shape="rect" id="node2" href="$class_c_results.html#aabf6056f1062ff5e076560cd8a38fa0b" title="It active the saving of one specific measure. If it set twice time the effect is inverted. " alt="" coords="243,5,438,47"/>
+<area shape="rect" id="node3" href="$class_c_results.html#ae9a3b76e623c21fec926c1e2a863371d" title="Set the result value of average surface distance measure. " alt="" coords="233,71,448,98"/>
+<area shape="rect" id="node4" href="$class_c_results.html#a206dc69c0bf9c3ad8fe6def66f5a60fa" title="Set the result value of contour mean distance measure. " alt="" coords="240,122,441,149"/>
+<area shape="rect" id="node5" href="$class_c_results.html#a0b435b05ad48de27278234dd15ec3753" title="Set the result value of Dice measure. " alt="" coords="277,173,404,199"/>
+<area shape="rect" id="node6" href="$class_c_results.html#a04c2f9830723d6d28f13b122b0233abb" title="Set the result value of F1 score of F&#45;test. " alt="" coords="271,223,410,250"/>
+<area shape="rect" id="node7" href="$class_c_results.html#afe347c766c90b2c6a42893c1f307207c" title="Set the result value of DistHausdorff measure. " alt="" coords="251,274,430,301"/>
+<area shape="rect" id="node8" href="$class_c_results.html#a8dfafcf1684acf883b1d1ddd64e5c688" title="Set the result value of Jaccard measure. " alt="" coords="267,325,414,351"/>
+<area shape="rect" id="node9" href="$class_c_results.html#a0472967af5054af00eca6c6be4468526" title="Set the result value of NPV (Negative Predictive Value) measure. " alt="" coords="277,375,405,402"/>
+<area shape="rect" id="node10" href="$class_c_results.html#a040ffed81443a36b75e97a340ba2d0d9" title="Set the result value of PPV (Positive Predictive Value) measure. " alt="" coords="277,426,405,453"/>
+<area shape="rect" id="node11" href="$class_c_results.html#a035e5f5acf23343c2f5aa73b8479178e" title="Set the result value of PPVL measure. " alt="" coords="273,477,408,503"/>
+<area shape="rect" id="node12" href="$class_c_results.html#a69fab8c57578a3c04daa8ed00964559d" title="Set the result value of Relative volume error. " alt="" coords="277,527,405,554"/>
+<area shape="rect" id="node13" href="$class_c_results.html#a6b9cbceeb8d1a6e2d0d6dd0dcdcc63ea" title="Enable or disable on screen results. " alt="" coords="269,578,412,605"/>
+<area shape="rect" id="node14" href="$class_c_results.html#ad84e1e2c19e1386d2c29c907e2120961" title="Set the result value of Sensibility measure. " alt="" coords="260,629,421,655"/>
+<area shape="rect" id="node15" href="$class_c_results.html#ab4a3d501e98cc24eb50ee7cdb5c8f0bf" title="Set the result value of SensL measure. " alt="" coords="271,679,410,706"/>
+<area shape="rect" id="node16" href="$class_c_results.html#a976e2948281b81bf9ec92b9fef71c66f" title="Set the result value of Specificity measure. " alt="" coords="260,730,421,757"/>
+<area shape="rect" id="node17" href="$class_c_results.html#abc76bcb6ed583982b484dfe0878ca51a" title="Enable or disable text file results. " alt="" coords="281,781,400,807"/>
+<area shape="rect" id="node18" href="$class_c_results.html#abc9f48e5e73a52effb95d258afafe6ae" title="Enable or disable XML file results. " alt="" coords="279,831,402,858"/>
+</map>

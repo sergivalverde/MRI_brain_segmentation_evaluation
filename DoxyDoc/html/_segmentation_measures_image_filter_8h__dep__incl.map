@@ -1,0 +1,8 @@
+<map id="C:/dev/fli/tools/SegPerfAnalyzer/src/Analyzer/SegmentationMeasuresImageFilter.h" name="C:/dev/fli/tools/SegPerfAnalyzer/src/Analyzer/SegmentationMeasuresImageFilter.h">
+<area shape="rect" id="node2" href="$_analyzer_8h.html" title="Description of CAnalyzer class. The class to compute various metrics to evaluate segmentation results..." alt="" coords="100,109,253,165"/>
+<area shape="rect" id="node7" href="$_segmentation_measures_image_filter_8hxx.html" title="C:/dev/fli/tools/SegPerf\lAnalyzer/src/Analyzer\l/SegmentationMeasuresImageFilter.hxx" alt="" coords="277,109,529,165"/>
+<area shape="rect" id="node3" href="$_analyzer_8cpp.html" title="Implementation of CAnalyzer class. The class to compute various metrics to evaluate segmentation resu..." alt="" coords="5,213,159,269"/>
+<area shape="rect" id="node4" href="$_seg_perf_app_8h.html" title="Description of CSegPerfApp class, the main class. It structures application and application progress..." alt="" coords="183,221,362,262"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Contains the main function. " alt="" coords="97,317,251,359"/>
+<area shape="rect" id="node6" href="$_seg_perf_app_8cpp.html" title="Implementation of CSegPerfApp class. The class to structure application and application progress..." alt="" coords="275,317,468,359"/>
+</map>
